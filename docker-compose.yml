@@ -7,7 +7,7 @@ services:
     ports:
       - 33333:33333
     environment:
-      TOKEN: "ODYxNDMyMjgzMDg0NzUwODcx.GxqI3U.KmH4TdYaDCVrFLafXa8mSILTW0JL6bdgJudVt8"
+      TOKEN: ""
       PREFIX: "+"
       PLAYING: "+help | music"
       EMBEDS_COLOR: "#FFFFFF"
